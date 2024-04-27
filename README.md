@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rishisharmapro/Rishisharmapro/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/RishiSharmapro/RishiSharmapro/blob/RishiSharmapro-patch-1/snake.yml" alt="Snake animation" />
 
 ###
 
