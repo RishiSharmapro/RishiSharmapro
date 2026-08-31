@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://www.rishisharmapro.dev/" target="_blank"><strong>Visit My Portfolio → rishisharmapro.dev</strong></a>
+  🌐 <a href="https://rishisharmapro.vercel.app/" target="_blank"><strong>Visit My Portfolio → rishisharmapro</strong></a>
 </p>
 
 <div align="center">
